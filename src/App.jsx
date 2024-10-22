@@ -6,6 +6,7 @@ import React from 'react';
 import Navbar from './Components/navbar/Navbar';
 import Maincart from './Components/Maincart';
 import Insidecart from './Components/navbar/Insidecart';
+import Nextcart from './Components/navbar/Nextcart';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
 <Navbar />
 <Maincart />
 <Insidecart />
-
+<Nextcart />
 
 
    </>
