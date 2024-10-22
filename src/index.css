@@ -109,6 +109,7 @@ cursor: pointer;
   display: flex;
 
   justify-content: start;
+
   gap:10px;
 }
 #actualprice{
@@ -119,11 +120,13 @@ cursor: pointer;
 }
 .star{
   color: red;
+  padding: 5px 0px 5px 0px;
 }
 .shipping{
   display: flex;
  justify-content: start;
   gap: 40px;
+  padding: 5px 0px 5px 0px;
  
 }
 #offer{
