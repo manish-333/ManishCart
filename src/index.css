@@ -67,12 +67,12 @@ ul{
 .maincart{
   width:100%;
   height:400px;
-  background-color: gray;
+  /* background-color: gray; */
 }
 .maincart img{
   width:100%;
   height:400px;
-  background-color: gray;
+  /* background-color: gray; */
 }
 .insidecart{
 width:100%;
@@ -199,6 +199,18 @@ gap:2vh;
   display: flex;
   justify-content: start;
   gap:6vh;
+}
+.footwear{
+  width:100%;
+  height: 100px;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-family: sans-serif;
+  font-style: italic;
+margin-top: 10px;
 }
 @media (max-width:621px) {
   .nav ul{

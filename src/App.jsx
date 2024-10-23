@@ -8,6 +8,7 @@ import Maincart from './Components/Maincart';
 import Insidecart from './Components/navbar/Insidecart';
 import Nextcart from './Components/navbar/Nextcart';
 import Telicart from './Components/navbar/Telicart';
+import Footwear from './Components/navbar/Footwear';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
 <Insidecart />
 <Nextcart />
 <Telicart />
+<Footwear />
 
 
    </>
