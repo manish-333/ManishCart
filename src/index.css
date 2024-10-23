@@ -156,10 +156,12 @@ margin-top: 10px;
   /* background-color: aqua; */
   display: flex;
   justify-content: center;
+  align-items: center;
   justify-content: space-evenly;
   cursor: pointer;
+  flex-wrap: wrap;
 
-gap:4vh;
+gap:2vh;
 
  
 
