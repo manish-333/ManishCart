@@ -10,6 +10,8 @@ import Nextcart from './Components/navbar/Nextcart';
 import Telicart from './Components/navbar/Telicart';
 import Footwear from './Components/navbar/Footwear';
 import Footwearmain from './Components/navbar/footwearmain';
+import Sport from './Components/navbar/Sport';
+import SportsHelth from './Components/navbar/SportsHelth';
 function App() {
   return (
    
@@ -22,7 +24,8 @@ function App() {
 <Telicart />
 <Footwear />
 <Footwearmain />
-
+<Sport />
+<SportsHelth />
 
 
    </>
