@@ -15,7 +15,7 @@ const data = [
   {
     id: 2,
     image:
-      "https://rukminim2.flixcart.com/image/612/612/xif0q/kit/i/3/w/unfilled-heavy-premium-2-ft-black-srf-punching-bag-hand-wrap-original-imagjt784bnfwh9d.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/sport-bag/9/x/9/sunr-23015-m-sunr23015-kit-bag-yonex-36-badminton-original-imags94x4nsxanwe.jpeg?q=70",
     name: "LYCAN 2Ft Unfilled Heavy Black Boxing Bag with Steel Ch...",
     price: "₹448 ",
     offer: "₹99955% off",
