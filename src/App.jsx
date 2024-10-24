@@ -12,6 +12,7 @@ import Footwear from './Components/navbar/Footwear';
 import Footwearmain from './Components/navbar/footwearmain';
 import Sport from './Components/navbar/Sport';
 import SportsHelth from './Components/navbar/SportsHelth';
+import Footer from './Components/navbar/Footer';
 function App() {
   return (
    
@@ -26,6 +27,7 @@ function App() {
 <Footwearmain />
 <Sport />
 <SportsHelth />
+<Footer />
 
 
    </>
