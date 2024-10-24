@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaWallet } from "react-icons/fa";
-import { CiWallet } from "react-icons/ci";
+import { CiDeliveryTruck, CiWallet } from "react-icons/ci";
 import { RiSecurePaymentLine } from "react-icons/ri";
 import { FaHeadphonesSimple } from "react-icons/fa6";
 import { FaWhatsapp } from "react-icons/fa";
