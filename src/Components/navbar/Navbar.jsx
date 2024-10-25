@@ -32,7 +32,7 @@ const Navbar = () => {
         {/* <img alt="Logo" /> */}
       </div>
       
-      <ul id="list" style={{ display: '' }}>
+      <ul id="list" style={{ display: 'none' }}>
         <li>HOME</li>
         <li>ABOUT</li>
         <li>Men</li>
