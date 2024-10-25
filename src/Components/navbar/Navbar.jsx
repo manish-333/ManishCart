@@ -7,7 +7,9 @@ import { GrUserManager } from "react-icons/gr";
 const Navbar = () => {
   return (
     <div className="nav">
-        <div className="logo">LOGO</div>
+        <div className="logo">
+       <img />
+        </div>
         
        <ul>
         <li>Home</li>
