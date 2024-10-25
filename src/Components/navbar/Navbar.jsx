@@ -29,7 +29,7 @@ const Navbar = () => {
   return (
     <div className="nav">
       <div className="logo">
-        <img alt="Logo" />
+        {/* <img alt="Logo" /> */}
       </div>
       
       <ul id="list" style={{ display: 'none' }}>
