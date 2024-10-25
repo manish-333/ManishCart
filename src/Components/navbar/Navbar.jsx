@@ -32,12 +32,12 @@ const Navbar = () => {
         {/* <img alt="Logo" /> */}
       </div>
       
-      <ul id="list" style={{ display: 'none' }}>
-        <li>Home</li>
-        <li>About</li>
-        <li>Service</li>
-        <li>Service</li>
-        <li>Service</li>
+      <ul id="list" style={{ display: '' }}>
+        <li>HOME</li>
+        <li>ABOUT</li>
+        <li>Men</li>
+        <li>WOMAN</li>
+        <li>BEAUTY</li>
         <li>Service</li>
       </ul>
       

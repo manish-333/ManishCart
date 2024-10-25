@@ -33,7 +33,7 @@ ul li:hover{
 border-bottom: 1px solid red;
   border-radius: 5px;
   cursor: pointer;
-  color:  white;
+  color:  black;
 }
 ul{
   /* margin-left: 40%; */
@@ -416,12 +416,13 @@ span{
     position: absolute;width: 100%;
     height: 100vh;
     top: 4.4rem;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(242, 234, 234);
     text-align: center;
     font-size: 30px;
     line-height: 60px;
     position: fixed;
-    
+    color: black;
+    border: none;
   }
   .maincart img{
     width:100%;
