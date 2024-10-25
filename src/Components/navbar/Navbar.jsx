@@ -10,17 +10,15 @@ const Navbar = () => {
     const menubtn = document.querySelector('#menubtn');
 
     const toggleMenu = () => {
-      // list.style.display = list.style.display === "block" ? "none" : "block";
       if (list.style.display === "block") {
         list.style.display = "none";
       } else {
-        list.style.display = "block"; // Use "=" for assignment here
+        list.style.display = "block"; 
       }
     };
 
     menubtn.addEventListener("click", toggleMenu);
 
-    // Cleanup the event listener on unmount
     return () => {
       menubtn.removeEventListener("click", toggleMenu);
     };
@@ -29,10 +27,9 @@ const Navbar = () => {
   return (
     <div className="nav">
       <div className="logo">
-        {/* <img alt="Logo" /> */}
       </div>
       
-      <ul id="list" style={{ display: 'none' }}>
+      <ul id="list" >
         <li>HOME</li>
         <li>ABOUT</li>
         <li>Men</li>
